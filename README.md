@@ -1,8 +1,6 @@
 # Hello, I'm Justin Lawitz
 <a href="[https://linkedin.com](https://www.linkedin.com/in/justinlawitz/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a Junior at UTSA with a profound interest in technology and Cybersecurity.
 
 ## Objective
@@ -36,5 +34,3 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
     <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=elastic-stack&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
