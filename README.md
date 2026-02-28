@@ -34,3 +34,5 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
     <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=elastic-stack&logoColor=white" />
 </div>
 
+## Projects
+- UniFi Home Network Deployment
