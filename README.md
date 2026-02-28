@@ -12,8 +12,8 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Implementation          | <a href="https://google.com">Detection Lab</a>|
-| Hack The Box | <a href="https://google.com">Detection Lab</a>|
+| Network Implementation          | <a href="https://github.com/JustinLawitz/UniFi-Home-Network-Deployment">UniFi Home Network Implementation</a> ||
+| Hack The Box | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
 
 
 ## Tools
