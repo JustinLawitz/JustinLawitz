@@ -1,5 +1,5 @@
 # Hello, I'm Justin Lawitz
-<a href="[https://linkedin.com](https://www.linkedin.com/in/justinlawitz/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinlawitz/)
 
 I am a Junior at UTSA with a profound interest in technology and Cybersecurity.
 
