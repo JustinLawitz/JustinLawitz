@@ -38,3 +38,4 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 
 ## Projects
 - UniFi Home Network Deployment
+- VLAN Segmentation and Hardware Access Control
