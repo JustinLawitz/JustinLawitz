@@ -13,8 +13,9 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Implementation | <a href="https://github.com/JustinLawitz/UniFi-Home-Network-Deployment">UniFi Home Network Implementation</a> ||
-| Hack The Box | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
 | VLANs, MAC Addresses, and Whitelists | <a href="https://github.com/JustinLawitz/VLANs-and-Whitelists/blob/main/README.md">VLAN Segmentation and Hardware Access Control</a> ||
+| Hack The Box | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
+
 
 
 ## Tools
