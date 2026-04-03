@@ -14,7 +14,8 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 |-----------------------------------------------|----------------------------|
 | Network Implementation | <a href="https://github.com/JustinLawitz/UniFi-Home-Network-Deployment">UniFi Home Network Implementation</a> ||
 | VLANs, MAC Addresses, and Whitelists | <a href="https://github.com/JustinLawitz/VLANs-and-Whitelists/blob/main/README.md">VLAN Segmentation and Hardware Access Control</a> ||
-| Hack The Box | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
+|Trunking, Inter-VLAN Routing, DNS, and Firewall Management | <a href="https://github.com/JustinLawitz/Network-wide-DNS-sinkhole-and-privacy-implementation/blob/main/README.md"> ||
+| Basic Pen Testing | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
 
 
 
@@ -39,3 +40,4 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 ## Projects
 - UniFi Home Network Deployment
 - VLAN Segmentation and Hardware Access Control
+- Network wide DNS sinkhole and privacy implementation
