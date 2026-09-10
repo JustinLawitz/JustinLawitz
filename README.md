@@ -44,3 +44,5 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 - UniFi Home Network Deployment
 - VLAN Segmentation and Hardware Access Control
 - Network wide DNS sinkhole and privacy implementation
+- Proxmox VE Hypervisor and ZFS Server Infrastructure Deployment
+- Second-Brain
