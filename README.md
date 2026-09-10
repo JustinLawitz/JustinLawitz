@@ -15,8 +15,9 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 | Network Implementation | <a href="https://github.com/JustinLawitz/UniFi-Home-Network-Deployment">UniFi Home Network Implementation</a> ||
 | VLANs, MAC Addresses, and Whitelists | <a href="https://github.com/JustinLawitz/VLANs-and-Whitelists/blob/main/README.md">VLAN Segmentation and Hardware Access Control</a> ||
 | Trunking, Inter-VLAN Routing, DNS, and Firewall Management | <a href="https://github.com/JustinLawitz/Network-wide-DNS-sinkhole-and-privacy-implementation/blob/main/README.md">Network-wide DNS Sinkhole and Privacy Implementation</a> ||
+| Hypervisor deployment and management, ZFS storage pool configuration, Hardware lifecycle and diagnostics | <a href="https://github.com/JustinLawitz/Proxmox-VE-Hypervisor-and-ZFS-Server-Infrastructure-Deployment/blob/main/README.md">Proxmox VE Hypervisor and ZFS Server Infrastructure Deployment</a>
 | Cloud Infrastructure, Enterprise SaaS Monitoring, PKI/ Certificate Lifecycle Management, Network Monitoring, Enterprise Wireless (Meraki) | <a href="https://github.com/JustinLawitz/Alterman-Internship/blob/main/README.md">Alterman Internship</a> ||
-| Containerization, Git/Gitea, Docker, DR, ZFS Snapshots, Obsidian, Ubuntu | <a href="https://github.com/JustinLawitz/Second-Brain/blob/main/README.md">Second-Brain</a>
+| Containerization, Git/Gitea, Docker, DR, ZFS Snapshots, Obsidian, Ubuntu | <a href="https://github.com/JustinLawitz/Second-Brain/blob/main/README.md">Second-Brain</a> ||
 | Basic Pen Testing | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
 
 
