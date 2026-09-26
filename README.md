@@ -21,11 +21,3 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 | Port Forwarding, Dynamic DNS, Linux User/Permission Management, systemd Service Configuration, Dedicated Game Server Deployment | <a href="https://github.com/JustinLawitz/Dragonwilds-Self-Hosted-Server/blob/main/README.md">Dragonwilds Self Hosted Server</a> ||
 | VLAN Migration, Zone-Based Firewalls, Proxmox Clustering, Bridged VLAN Tagging, Multi-Node Administration | <a href="https://github.com/JustinLawitz/VLAN-Migration-and-Proxmox-Cluster/blob/main/README.md">VLAN Migration and Proxmox Cluster ||
 | Basic Pen Testing | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
-
-## Projects
-- UniFi Home Network Deployment
-- VLAN Segmentation and Hardware Access Control
-- Network wide DNS sinkhole and privacy implementation
-- Proxmox VE Hypervisor and ZFS Server Infrastructure Deployment
-- Second-Brain
-- Dragonwilds Self Hoster Server
