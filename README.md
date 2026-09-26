@@ -19,7 +19,7 @@ My journey in Cybersecurity and Information Systems has led me to develop a pass
 | Cloud Infrastructure, Enterprise SaaS Monitoring, PKI/ Certificate Lifecycle Management, Network Monitoring, Enterprise Wireless (Meraki) | <a href="https://github.com/JustinLawitz/Alterman-Internship/blob/main/README.md">Alterman Internship</a> ||
 | Containerization, Git/Gitea, Docker, DR, ZFS Snapshots, Obsidian, Ubuntu | <a href="https://github.com/JustinLawitz/Second-Brain/blob/main/README.md">Second-Brain</a> ||
 | Port Forwarding, Dynamic DNS, Linux User/Permission Management, systemd Service Configuration, Dedicated Game Server Deployment | <a href="https://github.com/JustinLawitz/Dragonwilds-Self-Hosted-Server/blob/main/README.md">Dragonwilds Self Hosted Server</a> ||
-| Network Segmentation, Zone-Based Firewalls, Proxmox Clustering, Bridged VLAN Tagging, Multi-Node Administration | <a href="https://github.com/JustinLawitz/VLAN-Migration-and-Proxmox-Cluster/blob/main/README.md">VLAN Migration and Proxmox Cluster ||
+| VLAN Migration, Zone-Based Firewalls, Proxmox Clustering, Bridged VLAN Tagging, Multi-Node Administration | <a href="https://github.com/JustinLawitz/VLAN-Migration-and-Proxmox-Cluster/blob/main/README.md">VLAN Migration and Proxmox Cluster ||
 | Basic Pen Testing | <a href="https://justinblawitz.wixsite.com/hackthebox-cybersecu">HackTheBox Lab Write-ups</a> ||
 
 ## Projects
